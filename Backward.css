@@ -1,0 +1,40 @@
+.bigbox{
+	width:980px;
+	margin:0 auto;
+}
+.Bigbox{
+	width:980px;
+	margin:0 auto;
+}
+h1{
+	font-family:algerian; 
+	font-size:30pt;
+	color:blue;
+	text-align:center;
+}
+.firstbox{
+
+	margin:0;
+	padding:0;
+	background: ;
+	color: green;
+}
+.secondbox {
+	font-family: harrington;
+	margin: 0;
+	padding: 0;
+	list-style-type: none; 
+}
+.thirdbox {
+	font-family: harrington;
+	margin: 0;
+	padding: 0;
+	list-style-type: none; 
+}
+.fourthbox {
+	font-family: harrington;
+	color:violet;
+	margin: 0;
+	padding: 0;
+	list-style-type: none; 
+}
